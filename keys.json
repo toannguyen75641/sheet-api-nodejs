@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adroit-outlet-269316",
+  "private_key_id": "8672814f6965983eb477f585c3e17d73258a7e88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDnCgQwGtf0OAyK\nRNYLDito3evbZOwaIArTAVJiyYYDSHaxfq998FZK4oh7uK0V/dpEdT1nUCVfo4G3\nJ35ysRy7Zr1X35trf8Lu5IUd8BaLll1C7MNCiNhsM8kNM6tYi9CaiSDTqgLUJ4Ul\ndj9km8TlsFhnq29LqOn9enVvq63o1VgivOGDopJ69lcMmo6czgTToGuT3i1bOy5Z\nLTdQgLgaq5CP8czjBUS08fn9wQ+rOIf+i65bf1vcMcfTyOIQatz/ESL1zpfBwok6\nSRvjJRGnUSu5WawehHSVy29Dqm3sjw2z8gm2v3A3qa9l/2emOppQdwMJ+DU0N/0O\nmL3nsAAtAgMBAAECggEALxmfJfFrAholEFEdM67FUcEgMp9d9KuAmWilE4eS3vt4\nWxIBE9MZvHV3LoXFH30bcKZYCMZRgDBUovKVuCr8OQYmZpIq3Jz0r//9VU+bQQS7\n6Ydb/SXpvRFHlP3qGgiS09ZNz2jS385Yufzjyo5o8wxi0WulKk76uNast0HQF+13\nO8e1WFwzRtMTquMkXEnOC0DQbS00tiF7LyoTVsppMpD/ZFsa0jWQqZmLkOWe2R2C\nlGHYl65cb4J8HyqSqTNS3mecEGjh9B8rQpHG/gMfoCCZnUFh1Vo3IbfeL9c8AHRg\nxyPyJRXgW9ycMAsoJ8vFJkuaF7zFDK1fqQAf6YBxoQKBgQDz5x3eerf/zhUUok8p\ni6XM6WCFCKkBmZVA9RhhpEpQIJJ8RIzdaBSWd3MfIYEM0n6W5JIhYQGuUijNk/aS\nADJCH5RoCfEV6C8xqKtefJYJ/cz0PCZFZOCOGR23ifnPzvVgUspYu9J/0hdj5xRf\nxZ5PzaLH3pMaKrafHqJXZ7EuvQKBgQDyf5En9OlQtpZ2++b8kvW5EYDpBnopf6KM\nh42Mc6Abmg87OQnDpL3x4oPreVjgmfei6Fviniyf8mztnBjUEUtfLqaxeYEMc1vr\n12FpDuA9s2saCCf4VZmVHJiQ2AEKCT58XYxqPzSI+I5HnNwtXeBwJFT5y58cI9CX\nTsP1+Y4mMQKBgQDbS6kqeTJo+LUxiUId+6aGmCslUgULIDj3X6edWydJ5g9vVf9F\nrygbpajHi8tJaRVSvI67HkpxnwN625et7ClEFLrN1GqEpO+R+bKjUOdicmVOD6rl\nZ+8TNHfop1EKTG2JPscagz2fmZlYRNOnzLorzJuYk4G13EO4y8VxSxUfDQKBgQCp\nuSkySxLlX/Xtrx8bFgyPjDWqYtMrql5tdw5WCDM+PlR8wc4YtXwQCNcF/zd6c6jD\nx1dQRB69j+I3Z7Jk8vnK047t1jnBKhhi96sA6d1+sc27OYwoHllQ6OPLNLN9f7zR\nNHRrhHNTjoueiaX8xqCoPHWRI7fn7RU4YXN7/D9GcQKBgQDUpNHutTame/Rz0rFO\nnsDkFdKNBewnityn6+eTGdlsgPx91xu0Zuv/OfJkf728Bbw2ttv+AMbCXLjEsB3y\n1UVmsst46qko35e1ZTUEuSXmDALDSKFiwt93QzoUAIV3UGH3ZBf1bWHvAD72SQEo\n70CN1rjfYmOUsMMRAp7qkMOnNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "toannguyen75641@adroit-outlet-269316.iam.gserviceaccount.com",
+  "client_id": "109216976653377347384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/toannguyen75641%40adroit-outlet-269316.iam.gserviceaccount.com"
+}
